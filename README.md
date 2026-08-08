@@ -1,5 +1,7 @@
-# LAB-1-ATM
 ## ATM and Banking SYSTEM
+## Reg No: 212225040211
+## Name: Lothika M
+## Date: 28/7/2026
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
